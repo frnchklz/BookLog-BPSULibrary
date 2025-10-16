@@ -1,0 +1,114 @@
+------------------------------------
+Date: 2025-10-08 07:04:41
+To: w@bpsu.edu.ph
+From: admin123@gmail.com
+Subject: Password Reset Request
+Message:
+Hello will,
+
+We received a request to reset your password. Click the link below to reset it:
+
+http://localhost/library0/auth/reset-password.php?token=bd1bfda6a3e7989478a7482300f2545ca5775c6fb425a62443842604f145db5b
+
+This link will expire in 24 hours. If you did not request this, please ignore this email.
+
+Regards,
+Bataan Peninsula State University Library System Team
+ErrorInfo: PHPMailer not installed
+------------------------------------
+
+------------------------------------
+Date: 2025-10-13 05:59:27
+To: flsquiambao23@bpsu.edu.ph
+From: admin123@gmail.com
+Subject: Password Reset Request
+Message:
+Hello Franchezka Louise Quiambao,
+
+We received a request to reset your password. Click the link below to reset it:
+
+http://localhost/library0/auth/reset-password.php?token=9906ddc42ff1932a23f802eafb66cc223e34a79959a0ed5e59132933a6eac9aa
+
+This link will expire in 24 hours. If you did not request this, please ignore this email.
+
+Regards,
+Bataan Peninsula State University Library System Team
+ErrorInfo: PHPMailer not installed
+------------------------------------
+
+------------------------------------
+Date: 2025-10-13 06:07:57
+To: flsquiambao23@bpsu.edu.ph
+From: admin123@gmail.com
+Subject: Password Reset Request
+Message:
+Hello Franchezka Louise Quiambao,
+
+We received a request to reset your password. Click the link below to reset it:
+
+http://localhost/library0/auth/reset-password.php?token=f19970942c712c5c38f97b71ca350d6a49b2f7c74d699bb7cf702e9029c328bf
+
+This link will expire in 24 hours. If you did not request this, please ignore this email.
+
+Regards,
+Bataan Peninsula State University Library System Team
+ErrorInfo: PHPMailer not installed
+------------------------------------
+
+------------------------------------
+Date: 2025-10-16 10:36:19
+To: flsquiambao23@bpsu.edu.ph
+From: booklogbpsulibrary@gmail.com
+Subject: Password Reset Request
+Message:
+Hello Franchezka Louise Quiambao,
+
+We received a request to reset your password. Click the link below to reset it:
+
+http://localhost/library0/auth/reset-password.php?token=370fec1f76395d975b60660382e36a96b70538568192ce67853d328d383d92a5
+
+This link will expire in 24 hours. If you did not request this, please ignore this email.
+
+Regards,
+BookLog:Bataan Peninsula State University Library Team
+ErrorInfo: PHPMailer not installed
+------------------------------------
+
+------------------------------------
+Date: 2025-10-16 10:39:54
+To: flsquiambao23@bpsu.edu.ph
+From: booklogbpsulibrary@gmail.com
+Subject: Password Reset Request
+Message:
+Hello Franchezka Louise Quiambao,
+
+We received a request to reset your password. Click the link below to reset it:
+
+http://localhost/library0/auth/reset-password.php?token=80d812f22ef279ae2a5ac81bb0d76aa259c3ba854bb3b876903b300a94f26186
+
+This link will expire in 24 hours. If you did not request this, please ignore this email.
+
+Regards,
+BookLog:Bataan Peninsula State University Library Team
+ErrorInfo: PHPMailer not installed
+------------------------------------
+
+------------------------------------
+Date: 2025-10-16 10:40:24
+To: flsquiambao23@bpsu.edu.ph
+From: booklogbpsulibrary@gmail.com
+Subject: Password Reset Request
+Message:
+Hello Franchezka Louise Quiambao,
+
+We received a request to reset your password. Click the link below to reset it:
+
+http://localhost/library0/auth/reset-password.php?token=b76366101d762deb7ac592a153446f60c61f2fe29acb4df1aac2d327c082bef6
+
+This link will expire in 24 hours. If you did not request this, please ignore this email.
+
+Regards,
+BookLog:Bataan Peninsula State University Library Team
+ErrorInfo: PHPMailer not installed
+------------------------------------
+
